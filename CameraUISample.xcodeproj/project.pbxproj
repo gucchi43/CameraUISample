@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					ED28FCFF1E58BF7900D03E7C = {
 						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = LZVK55AH8Y;
 						ProvisioningStyle = Automatic;
 					};
 					ED28FD131E58BF7A00D03E7C = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = LZVK55AH8Y;
 				INFOPLIST_FILE = CameraUISample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mycompany.CameraUISample;
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = LZVK55AH8Y;
 				INFOPLIST_FILE = CameraUISample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mycompany.CameraUISample;
