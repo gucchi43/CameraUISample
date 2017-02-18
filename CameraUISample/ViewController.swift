@@ -52,7 +52,7 @@ class ViewController: UIViewController, AVCapturePhotoCaptureDelegate {
                     cameraView.layer.addSublayer(previewLayer!)
 
                     // ビューのサイズの調整
-                    previewLayer?.position = CGPoint(x: self.cameraView.frame.width, y: self.cameraView.frame.height)
+                    previewLayer?.position = CGPoint(x: self.cameraView.frame.width / 2, y: self.cameraView.frame.height / 2)
                     previewLayer?.bounds = cameraView.frame
                 }
             }
